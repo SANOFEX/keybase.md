@@ -1,0 +1,67 @@
+### Keybase proof
+
+I hereby claim:
+
+  * I am sanofex on github.
+  * I am sanofex (https://keybase.io/sanofex) on keybase.
+  * I have a public key ASADfp6kOvq5Q_Da-iaPDfvko1yLn8t8MDFTvTzTZFKOwQo
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120037e9ea43afab943f0dafa268f0dfbe4a35c8b9fcb7c303153bd3cd364528ec10a",
+      "host": "keybase.io",
+      "kid": "0120037e9ea43afab943f0dafa268f0dfbe4a35c8b9fcb7c303153bd3cd364528ec10a",
+      "uid": "7685752678106eb18071a8db30903919",
+      "username": "sanofex"
+    },
+    "merkle_root": {
+      "ctime": 1644986907,
+      "hash": "0e2e1986dc5409676b1ebcc5a9641500680f73d4942d0789978dc87251d4a1181591343059fdaa8dd8dc86d8865db6a106ceac5b29067b28cb3f6704cbfe0cf3",
+      "hash_meta": "a14c90c1d0e7c80979be2839cabc1a3f510a10d1b0121c4026757711416d7eb4",
+      "seqno": 21883299
+    },
+    "service": {
+      "entropy": "snOGfIu9izMHakxzPpPAfmWV",
+      "name": "github",
+      "username": "sanofex"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.9.2"
+  },
+  "ctime": 1644986953,
+  "expire_in": 504576000,
+  "prev": "118cdc90d8195399d6fbace2e61d489256201568975aa566a8fa6fbe6e11f2ef",
+  "seqno": 17,
+  "tag": "signature"
+}
+```
+
+with the key [ASADfp6kOvq5Q_Da-iaPDfvko1yLn8t8MDFTvTzTZFKOwQo](https://keybase.io/sanofex), yielding the signature:
+
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgA36epDr6uUPw2vomjw375KNci5/LfDAxU70802RSjsEKp3BheWxvYWTESpcCEcQgEYzckNgZU5nW+6zi5h1IklYgFWiXWqVmqPpvvm4R8u/EIEtozgZmNs9oqID12ZskosVMpTWesI7yXcFvryE2KLizAgHCo3NpZ8RAmxjXsfmHAvCuhyTfwPfx2tKc6BX6cboz5iZPhx9nWnvfgpYi6bipToGpXA5XUgkI+NjfbsboR1Q+LKZElMEKD6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIBFwVUCtaAmA/TyFatcNBO/sfRXJ5ZLi5TKar8eh27NDo3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/sanofex
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id sanofex
+```
